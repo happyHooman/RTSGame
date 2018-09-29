@@ -1,0 +1,35 @@
+.tabel-joc {
+
+}
+
+.tabel-joc tr {
+    height: 80px;
+}
+
+.tabel-joc tr td {
+    color: darkblue;
+    width: 50px;
+    padding: 0;
+    border: 2px solid darkblue;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 45px;
+}
+
+.city-table {
+
+}
+
+.city-table tr {
+    height: 80px;
+}
+
+.city-table tr td {
+    color: darkgoldenrod;
+    width: 50px;
+    padding: 0;
+    border: 2px solid darkorange;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 45px;
+}
